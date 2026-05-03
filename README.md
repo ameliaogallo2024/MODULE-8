@@ -1,6 +1,4 @@
-#Module 8 Assignment: Advanced Data Structures
-
-## Project Title
+##Module 8 Assignment: Advanced Data Structures
 **GlobalTech Solutions - Customer Management System**
 
 ## Description
